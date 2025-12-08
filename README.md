@@ -14,9 +14,9 @@ Desenvolvimento de software não é sobre escrever linhas de código, é sobre *
 
 Minha atuação é pautada por três pilares fundamentais:
 
-*   **Reliability (Confiabilidade):** Sistemas devem funcionar sob pressão. Implemento resiliência através de *circuit breakers*, *rate limiting* e *graceful degradation*.
-*   **Maintainability (Manutenibilidade):** Código limpo não é luxo, é necessidade. Sigo rigorosamente **SOLID**, **DRY** e **KISS** para garantir que a base de código seja evolutiva.
-*   **Observability (Observabilidade):** 'Achismo' não tem espaço na engenharia. Logs estruturados, métricas e tracing distribuído são mandatórios em qualquer aplicação que coloco em produção.
+*   **Reliability (Confiabilidade):** 
+*   **Maintainability (Manutenibilidade):** 
+*   **Observability (Observabilidade):** 
 
 <br />
 
