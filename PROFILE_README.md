@@ -1,16 +1,22 @@
 # Guilherme
 
-> "Desenvolvedor focado em criar sistemas sólidos, estáveis e práticos."
+> **Software Engineer | Full Stack & Distributed Systems**
+>
+> "Technical precision. Scalable architectures. Operational excellence."
 
 ---
 
 <br />
 
-## ⚡ Sobre Mim
+## 📐 Engineering Philosophy
 
-Desenvolvedor focado na construção de arquiteturas resilientes e escaláveis. Meu trabalho não é apenas escrever código, mas projetar soluções que sobrevivam ao tempo e à carga. Tenho uma abordagem fria e cirúrgica para resolução de problemas: analiso, planejo e executo com precisão.
+Desenvolvimento de software não é sobre escrever linhas de código, é sobre **resolver problemas complexos com soluções escaláveis e sustentáveis**.
 
-Não busco "hypes" passageiros; busco ferramentas que entregam resultados consistentes. Minha rotina é pautada por estudo contínuo e aprimoramento técnico, com ênfase em back-end robusto, segurança de dados e otimização de performance.
+Minha atuação é pautada por três pilares fundamentais:
+
+*   **Reliability (Confiabilidade):** Sistemas devem funcionar sob pressão. Implemento resiliência através de *circuit breakers*, *rate limiting* e *graceful degradation*.
+*   **Maintainability (Manutenibilidade):** Código limpo não é luxo, é necessidade. Sigo rigorosamente **SOLID**, **DRY** e **KISS** para garantir que a base de código seja evolutiva.
+*   **Observability (Observabilidade):** 'Achismo' não tem espaço na engenharia. Logs estruturados, métricas e tracing distribuído são mandatórios em qualquer aplicação que coloco em produção.
 
 <br />
 
@@ -18,92 +24,101 @@ Não busco "hypes" passageiros; busco ferramentas que entregam resultados consis
 
 <br />
 
-## 🛠️ Toolbox
+## 🛠️ Tech Ecosystem
 
-### 💻 Linguagens
+### 💻 Core Languages & Runtimes
 
 ![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
 ![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
-![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua)
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
-![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua)
 
 <br />
 
-### ⚛️ Frameworks e Bibliotecas Front-end
+### 🚀 Backend & Distributed Systems
+
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
+![gRPC](https://img.shields.io/badge/gRPC-000?style=for-the-badge&logo=grpc)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql)
+![WebSockets](https://img.shields.io/badge/WebSockets-000?style=for-the-badge&logo=socket.io)
+
+<br />
+
+### 📨 Messaging & Event Streaming
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq)
+![Redis](https://img.shields.io/badge/Redis_Pub/Sub-000?style=for-the-badge&logo=redis)
+
+<br />
+
+### ☁️ Infrastructure as Code (IaC) & Cloud
+
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
+
+<br />
+
+### 👁️ Observability & Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=for-the-badge&logo=opentelemetry)
+![ELK Stack](https://img.shields.io/badge/Elastic_Stack-000?style=for-the-badge&logo=elastic)
+![Datadog](https://img.shields.io/badge/Datadog-000?style=for-the-badge&logo=datadog)
+
+<br />
+
+### 🧪 Testing & Quality Assurance
+
+![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest)
+![Vitest](https://img.shields.io/badge/Vitest-000?style=for-the-badge&logo=vitest)
+![Cypress](https://img.shields.io/badge/Cypress-000?style=for-the-badge&logo=cypress)
+![SonarQube](https://img.shields.io/badge/SonarQube-000?style=for-the-badge&logo=sonarqube)
+
+<br />
+
+### ⚛️ Frontend Engineering
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
-![Framer](https://img.shields.io/badge/FramerMotion-000?style=for-the-badge&logo=framer)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
-![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=for-the-badge&logo=framer)
 
 <br />
 
-### ⚙️ Back-end / APIs / Server-side
+### 🗄️ Persistence Layer
 
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
-
-<br />
-
-### 🗄️ Bancos de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
 
 <br />
 
-### ☁️ Cloud & Infra
-
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
-![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=cloudflare)
-![Railway](https://img.shields.io/badge/Railway-000?style=for-the-badge&logo=railway)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+---
 
 <br />
 
-### 🚀 DevOps / CI/CD
+## 🏗️ System Architecture & Mastery
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=github-actions)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![PM2](https://img.shields.io/badge/PM2-000?style=for-the-badge&logo=pm2)
-![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins)
+Minha expertise vai além da sintaxe. Foco em arquitetura e design de software:
 
-<br />
-
-### 🔧 Ferramentas & Workflow
-
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![VSCode](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
-![Insomnia](https://img.shields.io/badge/Insomnia-000?style=for-the-badge&logo=insomnia)
-![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-000?style=for-the-badge&logo=windows-terminal)
+*   **Event-Driven Architecture (EDA):** Desacoplamento de serviços utilizando brokers de mensagens (Kafka/RabbitMQ) para alta escalabilidade.
+*   **Microservices:** Decomposição estratégica de monólitos, gerenciamento de comunicação inter-serviços (gRPC/HTTP) e tolerância a falhas.
+*   **Domain-Driven Design (DDD):** Modelagem focada no domínio do negócio, com *Ubiquitous Language* e *Bounded Contexts* claros.
+*   **Clean Architecture (Hexagonal):** Isolamento do *core business* das dependências externas (DB, UI, frameworks).
+*   **CI/CD Pipelines:** Automação total do ciclo de vida, do commit ao deploy (GitHub Actions, Jenkins).
 
 <br />
 
@@ -111,53 +126,31 @@ Não busco "hypes" passageiros; busco ferramentas que entregam resultados consis
 
 <br />
 
-## 🏗️ Arquiteturas & Metodologias
+## 🔬 Technical Case Studies
 
-Abaixo listo os padrões e conceitos que aplico no desenvolvimento de software moderno:
+### 🛡️ [Operation: Sentinel](#)
+> **Sistema Tático de Gestão & Monitoramento em Tempo Real**
 
-### Desenvolvimento de APIs
-- **RESTful APIs**: Design de endpoints limpos, verbos HTTP corretos e padronização.
-- **GraphQL**: Quando a flexibilidade no consumo de dados é prioritária.
+*   **Desafio:** Gerenciar estados complexos de múltiplas unidades operacionais em tempo real sem latência perceptível.
+*   **Solução:** Implementação de arquitetura baseada em **WebSockets** com **Supabase Realtime**. Gerenciamento de estado otimizado no client-side para reduzir *re-renders*.
+*   **Engineering:** RBAC (Role-Based Access Control) granular implementado via **Postgres RLS (Row Level Security)**.
+*   **Stack:** ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react) ![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase)
 
-### Autenticação & Segurança
-- **JWT (JSON Web Tokens)**: Implementação de sessões stateless seguras.
-- **OAuth 2.0**: Integrações com provedores externos (Google, GitHub, Discord).
-- **NextAuth.js**: Gerenciamento completo de autenticação em aplicações Next.js.
-- **RBAC (Role-Based Access Control)**: Controle de permissões granular.
+### ⚡ [Velocity Calc](#)
+> **Engine de Cálculo Balístico de Alta Precisão**
 
-### Arquitetura de Software
-- **MVC (Model-View-Controller)**: Separação clássica de responsabilidades.
-- **Clean Architecture**: Princípios de inversão de dependência e desacoplamento (nível prático).
-- **Microservices**: Noções de quebra de monólitos e comunicação assíncrona.
-- **Serverless**: Utilização de Edge Functions e Lambdas para escalabilidade.
+*   **Desafio:** Processar cálculos físicos intensivos mantendo a precisão de ponto flutuante e performance.
+*   **Solução:** Desenvolvimento de algoritmos otimizados em **Python** focados em eficiência computacional O(n).
+*   **Engineering:** Uso de bibliotecas numéricas especializadas e estruturação modular para facilitar testes unitários.
+*   **Stack:** ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
 
-### Pipeline Full-Stack
-- **Database Modeling**: Modelagem relacional (SQL) e não-relacional (NoSQL).
-- **ORM/Query Builders**: Uso eficiente de Prisma, Drizzle ou SQL puro.
-- **State Management**: Gerenciamento de estado complexo no client-side.
+### 🚔 [Rota 24/7](#)
+> **Plataforma EdTech de Alta Concorrência**
 
-<br />
-
----
-
-<br />
-
-## 🎯 Projetos Principais
-
-### [Operation: Sentinel](#)
-> Sistema integrado de gestão tática e monitoramento operacional.
-- **Stack:** ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react) ![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase) ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
-- **Destaque:** Dashboard em tempo real com permissões granulares.
-
-### [Velocity Calc](#)
-> Ferramenta de precisão para cálculos físicos e balísticos complexos.
-- **Stack:** ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python) ![Tkinter](https://img.shields.io/badge/Tkinter-000?style=flat-square&logo=python)
-- **Destaque:** Algoritmos otimizados para cálculos matemáticos intensivos.
-
-### [Rota 24/7](#)
-> Plataforma de gestão de estudos focada em concursos de elite.
-- **Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma) ![PostgreSQL](https://img.shields.io/badge/Postgres-000?style=flat-square&logo=postgresql)
-- **Destaque:** Cronogramas adaptativos baseados em performance do usuário.
+*   **Desafio:** Alta disponibilidade e gestão de dados relacionais complexos (usuários, cronogramas, métricas de estudo).
+*   **Solução:** Modelagem de banco de dados normalizada (3NF) em **PostgreSQL** e ORM **Prisma** para type-safety.
+*   **Engineering:** Implementação de caching estratégico (Redis) na camada de API para reduzir load no banco de dados.
+*   **Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma) ![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis)
 
 <br />
 
@@ -165,14 +158,42 @@ Abaixo listo os padrões e conceitos que aplico no desenvolvimento de software m
 
 <br />
 
-## 📈 Estatísticas do GitHub
+## ⚙️ Professional Workflow
+
+Meu ambiente de desenvolvimento é configurado para máxima eficiência e automação:
+
+### Version Control & Collaboration
+*   **Git Flow / Trunk Based Development**
+*   **Conventional Commits** (feat, fix, refactor, chore)
+*   **Semantic Versioning (SemVer)**
+
+### Advanced Environment
+*   **WSL2 (Windows Subsystem for Linux)**
+*   **Zsh + Oh My Zsh** (Produtividade no terminal)
+*   **Vim Motions** (Edição de velocidade)
+
+<br />
+
+---
+
+<br />
+
+## 📊 Performance Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielBorn&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBorn&layout=compact&theme=transparent&hide_border=true" />
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielBorn&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBorn&theme=transparent&hide_border=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBorn&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
 <br />
@@ -181,40 +202,7 @@ Abaixo listo os padrões e conceitos que aplico no desenvolvimento de software m
 
 <br />
 
-## ⚙️ Competências & Workflow
-
-### Deploy & CI/CD
-- Configuração de pipelines de **GitHub Actions** para automação de testes e deploy.
-- Gerenciamento de deploys na **Vercel** e **Railway** com ambientes de Preview e Production.
-- Containerização de aplicações com **Docker** para garantir consistência entre ambientes.
-
-### Qualidade de Código & Versionamento
-- **Git Flow**: Uso de branches (feature, hotfix, release) para organização do fluxo.
-- **ESLint & Prettier**: Padronização rigorosa de estilo de código.
-- **Code Review**: Prática de revisão para garantir manutenibilidade.
-
-### Monitoramento & Performance
-- **Logs**: Implementação de logs estruturados para debug em produção.
-- **Vitals**: Otimização de Core Web Vitals (LCP, FID, CLS).
-- **SEO**: Práticas de SEO técnico para renderização server-side (SSR/SSG).
-
-### Segurança
-- Sanitização de inputs para prevenção de **SQL Injection** e **XSS**.
-- Gerenciamento seguro de variáveis de ambiente (.env).
-- Implementação de headers de segurança (Helmet, CORS policies).
-
-### Design System & UI/UX
-- Criação de **Design Systems** atômicos e reutilizáveis.
-- Foco em **Acessibilidade (a11y)** e semântica HTML.
-- Implementação de **Dark Mode** nativo e responsividade fluida.
-
-<br />
-
----
-
-<br />
-
 <div align="center">
-  <p><em>"Trabalhando em melhorias constantes."</em></p>
+  <p><em>"Deploying solutions. Delivering excellence."</em></p>
   <p>2025 • Guilherme</p>
 </div>
