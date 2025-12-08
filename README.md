@@ -112,7 +112,7 @@ Minha atuação é pautada por três pilares fundamentais:
 
 ## 🏗️ System Architecture & Mastery
 
-Minha expertise vai além da sintaxe. Foco em arquitetura e design de software:
+Foco em arquitetura e design de software:
 
 *   **Event-Driven Architecture (EDA):** Desacoplamento de serviços utilizando brokers de mensagens (Kafka/RabbitMQ) para alta escalabilidade.
 *   **Microservices:** Decomposição estratégica de monólitos, gerenciamento de comunicação inter-serviços (gRPC/HTTP) e tolerância a falhas.
